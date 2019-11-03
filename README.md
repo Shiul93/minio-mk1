@@ -6,11 +6,11 @@ Minio-mk1 is a wedge style combat robot made completely of CNC milled aluminum, 
 
 ## BOM
 
-* 6mm aluminum plate for the side panels
-* 5mm aluminum plate for the robot base, motor holders and top reinforcement
-* 0.6mm aluminum (or steel) sheet for the exterior cover
-* 8 M3x10 tapered stainless steel bolts for the side panels
-* 8 M3x16 stainless steel bolts for the motor holders
+* 6mm aluminum plate for the side panels (https://www.randrade.com/chapas/1066-chapa-aluminio-5083-corte-a-espesor.html)
+* 5mm aluminum plate for the robot base, motor holders and top reinforcement (https://www.randrade.com/chapas/1066-chapa-aluminio-5083-corte-a-espesor.html)
+* 0.5mm aluminum (or steel) sheet for the exterior cover (https://www.leroymerlin.es/fp/12715003/1-chapa-metalica-de-aluminio-de-25x50-cm-y-0-5-mm-espesor)
+* 8 M3x10 tapered stainless steel bolts for the side panels (https://www.randrade.com/allen/94-tornillo-inox-a2-allen-c-avell-d-7991.html)
+* 8 M3x16 stainless steel bolts for the motor holders (https://www.randrade.com/allen/87-tornillo-inox-din-912-a2-m.html)
 * 2 Solarbotics RW2i wheels (https://tienda.bricogeek.com/ruedas-robotica/1008-rueda-solarbotics-rw2i.html)
 * 2 RC Brushed DC motor drivers (https://es.aliexpress.com/item/32729418917.html)
 * 2 DC motors (https://es.aliexpress.com/item/32896426867.html)

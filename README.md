@@ -18,3 +18,13 @@ Minio-mk1 is a wedge style combat robot made completely of CNC milled aluminum, 
 * 1 Turnigy NanoTech 300mAh 2S battery (https://hobbyking.com/es_es/turnigy-nano-tech-300mah-2s-35-70c-lipo-pack.html)
 
 ## Images
+
+![Minio](https://github.com/Shiul93/minio-mk1/blob/master/images/minio3.JPG?raw=true)
+
+![Minio](https://github.com/Shiul93/minio-mk1/blob/master/images/minio5.JPG?raw=true)
+
+![Minio](https://github.com/Shiul93/minio-mk1/blob/master/images/minio2.JPG?raw=true)
+
+![Minio](https://github.com/Shiul93/minio-mk1/blob/master/images/minio4.JPG?raw=true)
+
+![Minio](https://github.com/Shiul93/minio-mk1/blob/master/images/minio1.JPG?raw=true)
